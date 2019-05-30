@@ -2,6 +2,6 @@ import calendar
 year=int(input())
 a=calendar.isleap(year)
 if a==True:
-    print("leap year")
+    print("yes")
 else:
-    print("not a leap year")
+    print("no")
