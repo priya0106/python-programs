@@ -1,4 +1,4 @@
-p=int(input())
-q=int(input())
+p=input()
+q=input()
 p,q=q,p
 print(p,q)
