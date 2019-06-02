@@ -1,6 +1,7 @@
 a,b=list(map(int,input().split()))
 for i in range(a,b):
   sum=0
+  digit=0
   order=len(str(i))
   temp=i
   while(temp>0):
