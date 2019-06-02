@@ -1,7 +1,7 @@
 num=int(input())
 if num<=100000:
   order=len(str(num))
-sum=o
+sum=0
 temp=num
 while temp>0:
   digit=temp%10
