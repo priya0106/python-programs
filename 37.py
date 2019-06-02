@@ -1,4 +1,4 @@
-a=int(input())
-b=int(input())
-a,b=b,a
-print(a,b)
+p=int(input())
+q=int(input())
+p,q=q,p
+print(p,q)
