@@ -5,6 +5,6 @@ if(v>='a' and v<='z'):
   if i in ch:
     print("vowel")
   else:
-    print("Cosonant")
+    print("Consonant")
  else:
    print("Invalid")
